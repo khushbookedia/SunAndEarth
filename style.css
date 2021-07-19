@@ -1,0 +1,24 @@
+img {
+    width: 400px;
+    margin-bottom: 20px;
+}
+
+
+body {
+    background: url("https://i.pinimg.com/originals/11/9c/43/119c43645d43f0c9fffe9aa1802982a5.gif");
+    text-align: center;
+    font-size: 30px;
+    color: #FFEBEE;
+}
+
+p {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 16px;
+    color: #FFCC80;
+    border: 2px solid #5D4037;
+    padding: 10px;
+    text-align: justify;
+    margin-left: 30px;
+    margin-right: 30px;
+}
